@@ -7,7 +7,7 @@
 using namespace std;
 
 // 9/25 version(Ginger Ubuntu)
-
+// 9/27 commit to Github
 // limitation, better solution
 // 馬達同時轉(旺宏)
 // 連續兩次 GotoPosition()
